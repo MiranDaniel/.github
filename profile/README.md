@@ -1,5 +1,7 @@
 <img src="../assets/tripsit_wordmark.webp" alt="TripSit logo" width="200"/>
+
 ---
+
 TripSit is a volunteer-driven harm reduction network that aims to educate individuals about the safer use of psychoactive drugs. Taking a stance of neither encouraging nor discouraging drug use, TripSit seeks to prevent drug related injuries and deaths around the world.
 
 Our community lives on our [Discord server](https://discord.gg/tripsit) where we provide peer support, harm reduction information, and a safe space for people.
