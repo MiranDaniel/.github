@@ -1,4 +1,4 @@
-![TripSit](./assets/tripsit_wordmark.webp)
+![TripSit](../assets/tripsit_wordmark.webp)
 ---
 TripSit is a volunteer-driven harm reduction network that aims to educate individuals about the safer use of psychoactive drugs. Taking a stance of neither encouraging nor discouraging drug use, TripSit seeks to prevent drug related injuries and deaths around the world.
 
